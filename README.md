@@ -1,59 +1,47 @@
 # 👋 Hi, I'm an AI & Cybersecurity Enthusiast!
 
-Welcome to my GitHub! I'm a Computer Engineering student with a growing passion for **Cybersecurity** and **Artificial Intelligence**. I love building secure systems, exploring vulnerabilities, and automating smart solutions with machine learning. I believe in continuous learning and hands-on practice through open-source projects and online labs.
+Welcome to my GitHub! I'm a Computer Engineering student with a growing passion for **Cybersecurity** and **Artificial Intelligence**. I love building secure systems, exploring vulnerabilities, and automating smart solutions using machine learning. I believe in continuous learning and hands-on practice through open-source projects and online labs.
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-**Cybersecurity:**
-- 🔐 Kali Linux, Wireshark, Metasploit, Nmap, Burp Suite
-- 🛡️ Ethical Hacking, Secure Coding, Threat Analysis
-- ⚔️ TryHackMe | Hack The Box | OSCP (in progress)
+### 🔐 Cybersecurity:
+- Kali Linux, Wireshark, Metasploit, Nmap, Burp Suite  
+- Ethical Hacking, Secure Coding, Threat Analysis  
+- TryHackMe | Hack The Box | OSCP *(in progress)*  
 
-**AI/ML:**
-- 🧠 Python, Scikit-learn, TensorFlow, OpenCV
-- 📊 Machine Learning, NLP, Neural Networks
+### 🤖 AI & Machine Learning:
+- Python, Scikit-learn, TensorFlow, OpenCV  
+- Machine Learning, Natural Language Processing, Neural Networks  
 
-**Other Skills:**
-- 💻 Git, Bash, Linux, APIs, SQLite, Flask
+### 💻 Other Skills:
+- Git, Bash, Linux, APIs, SQLite, Flask  
 
 ---
 
 ## 📌 Pinned Projects
 
-Here are some of the projects I've worked on:
+### 🔎 [WebVulnScanner](https://github.com/GaganSaiEashwar/WebVulnScanner)  
+➤ A Python-based CLI tool that scans websites for common vulnerabilities such as SSL certificate issues, header misconfigurations, and directory listing exposure.
 
-- [`face-recognition-attendance`](https://github.com/GaganSaiEashwar/face-recognition-attendance)  
-  ➤ A system that marks attendance using facial recognition (OpenCV + Haar Cascades)
-
-- [`phishing-detection-ml`](https://github.com/GaganSaiEashwar/phishing-detection-ml)  
-  ➤ ML-based URL scanner that detects phishing websites
-
-- [`keylogger-analysis`](https://github.com/GaganSaiEashwar/keylogger-analysis)  
-  ➤ Educational project analyzing keyloggers and prevention techniques
-
-- [`secure-login-system`](https://github.com/GaganSaiEashwar/secure-login-system)  
-  ➤ Login system using hashing, 2FA, and secure session handling
-
+### 💬 [AI Chatbot](https://github.com/GaganSaiEashwar/AI-Chatbot)  
+➤ A command-line chatbot built with Hugging Face's Transformers (DialoGPT), capable of human-like multi-turn conversations using NLP techniques.
 
 ---
 
 ## 🚀 Certifications & Learning
 
-- 🎓 Google Cybersecurity Professional Certificate
-- 🤖 IBM AI Engineering
-- 🧠 Coursera: Andrew Ng's ML + AI for Everyone
-- 🛡️ OSCP (in progress)
-- 🧩 TryHackMe & Hack The Box – Active Learner
+- 🎓 Google Cybersecurity Professional Certificate  
+- 🤖 IBM AI Engineering  
+- 📚 Coursera: Andrew Ng’s Machine Learning + AI for Everyone  
+- 🛡️ OSCP *(in progress)*  
+- 🧩 TryHackMe & Hack The Box – Active Learner  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/GaganSaiEashwar)
+- 💼 [LinkedIn](https://linkedin.com/in/gagansaieashwar)  
 - 💬 Feel free to explore my repos, open issues, or reach out!
 
----
-
-🌟 *Securing the Digital Frontier — one script at a time.*
