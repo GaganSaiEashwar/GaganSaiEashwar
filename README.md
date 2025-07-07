@@ -36,13 +36,13 @@ A responsive portfolio built with React and Tailwind CSS to showcase my projects
 
 ## 📌 Pinned Projects
 
-### 🔎 WebVulnScanner
+### 🔎 [WebVulnScanner](https://github.com/GaganSaiEashwar/WebVulnScanner)
 ➤ A Python-based CLI tool that scans websites for common vulnerabilities such as SSL certificate issues, header misconfigurations, and directory listing exposure.
 
-### 💬 AI Chatbot
+### 💬 [AI Chatbot](https://github.com/GaganSaiEashwar/AI-Chatbot)
 ➤ A command-line chatbot built with Hugging Face's Transformers (DialoGPT), capable of human-like multi-turn conversations using NLP techniques.
 
-### 🌐 DevConnect Portfolio Website
+### 🌐 [DevConnect Portfolio Website](https://github.com/GaganSaiEashwar/devconnect)
 ➤ A React & Tailwind-based portfolio to showcase projects, CV, skills, and contact form. Fully responsive, GitHub integrated, and deployment-ready.
 
 ---
