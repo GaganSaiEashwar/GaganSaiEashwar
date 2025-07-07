@@ -1,9 +1,14 @@
-# DevConnect - Personal Portfolio Website
+# 👋 Hi, I'm an AI & Cybersecurity Enthusiast!
 
-👋 Hi, I'm an AI & Cybersecurity Enthusiast!  
 Welcome to my GitHub! I'm a Computer Engineering student with a growing passion for Cybersecurity and Artificial Intelligence.  
 I love building secure systems, exploring vulnerabilities, and automating smart solutions using machine learning.  
 I believe in continuous learning and hands-on practice through open-source projects and online labs.
+
+---
+
+## 🌐 DevConnect - Personal Portfolio Website
+
+A responsive portfolio built with React and Tailwind CSS to showcase my projects, CV, and skills. Features include project cards, contact form, smooth navigation, and GitHub integration. Deployed using Vite.
 
 ---
 
@@ -15,13 +20,13 @@ I believe in continuous learning and hands-on practice through open-source proje
 - TryHackMe | Hack The Box | OSCP (in progress)
 
 ### 🎨 Frontend Development:
-- HTML5, CSS3, JavaScript 
+- HTML5, CSS3, JavaScript (ES6+)
 - React.js (with Vite), JSX
 - Tailwind CSS, Responsive Design, Mobile-first approach
 - GitHub Pages, Vercel, Netlify
 
 ### 🤖 AI & Machine Learning:
-- Python, Scikit-learn, TensorFlow, OpenCV
+- Python, Scikit-learn, TensorFlow, OpenCV  
 - Machine Learning, NLP, Neural Networks
 
 ### 💻 Other Skills:
