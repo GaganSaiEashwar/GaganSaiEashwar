@@ -1,66 +1,90 @@
+---
+
 # 👋 Hi, I'm an AI & Cybersecurity Enthusiast!
 
-Welcome to my GitHub! I'm a Computer Engineering student with a growing passion for Cybersecurity and Artificial Intelligence.  
-I love building secure systems, exploring vulnerabilities, and automating smart solutions using machine learning.  
-I believe in continuous learning and hands-on practice through open-source projects and online labs.
+Welcome to my GitHub! I'm a **Computer Engineering student** with a strong interest in **Cybersecurity and Artificial Intelligence**.
+I enjoy securing systems, identifying vulnerabilities, and building automation tools using Python and modern frameworks.
+I believe in continuous learning through **hands-on projects, internships, and security labs**.
 
 ---
 
-## 🌐 DevConnect - Personal Portfolio Website
 
-A responsive portfolio built with React and Tailwind CSS to showcase my projects, CV, and skills. Features include project cards, contact form, smooth navigation, and GitHub integration. Deployed using Vite.
+## 🧑‍💻 Internship Experience
+
+### 🔐 Cyber Security Intern | **AUN Tech Consulting**
+
+* Assisted in securing **web applications and internal systems** by identifying vulnerabilities using manual testing and automated security tools.
+* Performed **vulnerability assessments and basic penetration testing**, identifying threats such as **SQL Injection, XSS, and authentication misconfigurations**.
+* Developed and tested a **lightweight SQL Injection vulnerability scanner in Python** to automate detection of insecure input fields and database exposure.
+* Monitored **network traffic and system logs** to detect suspicious activities, improving incident response time and system reliability.
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-### 🔐 Cybersecurity:
-- Kali Linux, Wireshark, Metasploit, Nmap, Burp Suite  
-- Ethical Hacking, Secure Coding, Threat Analysis  
-- TryHackMe | Hack The Box | OSCP (in progress)
+### 🔐 Cybersecurity
 
-### 🎨 Frontend Development:
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js (with Vite), JSX
-- Tailwind CSS, Responsive Design, Mobile-first approach
-- GitHub Pages, Vercel, Netlify
+* Kali Linux, Wireshark, Metasploit, Nmap, Burp Suite
+* Vulnerability Assessment, Penetration Testing, Secure Coding
+* TryHackMe | Hack The Box | **OSCP (in progress)**
 
-### 🤖 AI & Machine Learning:
-- Python, Scikit-learn, TensorFlow, OpenCV  
-- Machine Learning, NLP, Neural Networks
+### 🎨 Frontend Development
 
-### 💻 Other Skills:
-- Git, Bash, Linux, APIs, SQLite, Flask
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js (Vite), JSX
+* Tailwind CSS, Responsive & Mobile-First Design
+* GitHub Pages, Vercel, Netlify
+
+### 🤖 AI & Machine Learning
+
+* Python, Scikit-learn, TensorFlow, OpenCV
+* Machine Learning, NLP, Neural Networks
+
+### 💻 Other Skills
+
+* Git, Bash, Linux, APIs, Flask, SQLite
 
 ---
 
 ## 📌 Pinned Projects
 
 ### 🔎 [WebVulnScanner](https://github.com/GaganSaiEashwar/WebVulnScanner)
-➤ A Python-based CLI tool that scans websites for common vulnerabilities such as SSL certificate issues, header misconfigurations, and directory listing exposure.
+
+➤ A Python-based CLI tool that scans websites for common vulnerabilities such as **SSL issues, header misconfigurations, and directory listing exposure**.
 
 ### 💬 [AI Chatbot](https://github.com/GaganSaiEashwar/AI-Chatbot)
-➤ A command-line chatbot built with Hugging Face's Transformers (DialoGPT), capable of human-like multi-turn conversations using NLP techniques.
+
+➤ A command-line chatbot built using **Hugging Face Transformers (DialoGPT)** for human-like multi-turn conversations using NLP techniques.
+
+### 🌦 [Real-Time Weather Checker](https://github.com/GaganSaiEashwar/Real-Time-Weather-Checker)
+
+➤ A **Python + PyQt5 desktop application** that fetches and displays real-time weather data using the **OpenWeatherMap API**, featuring input validation, error handling, and a clean GUI.
 
 ### 🌐 [DevConnect Portfolio Website](https://github.com/GaganSaiEashwar/devconnect)
-➤ A React & Tailwind-based portfolio to showcase projects, CV, skills, and contact form. Fully responsive, GitHub integrated, and deployment-ready.
+
+➤ A **React & Tailwind CSS portfolio** showcasing projects, skills, resume, and contact form. Fully responsive and deployment-ready.
 
 ---
 
 ## 🚀 Certifications & Learning
-- 🎓 Google Cybersecurity Professional Certificate  
-- 🤖 IBM AI Engineering  
-- 📚 Coursera: Andrew Ng’s Machine Learning + AI for Everyone  
-- 🛡️ OSCP (in progress)  
-- 🧩 TryHackMe & Hack The Box – Active Learner  
+
+* 🎓 Google Cybersecurity Professional Certificate
+* 🤖 IBM AI Engineering
+* 📚 Coursera – Andrew Ng’s *Machine Learning* & *AI for Everyone*
+* 🛡️ OSCP (In Progress)
+* 🧩 TryHackMe & Hack The Box – Active Learner
 
 ---
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/gagansaieashwar)  
-- 📨 gagansaieashwar@gmail.com  
-- 💬 Feel free to explore my repos or reach out!
+## 📫 Let’s Connect!
+
+* 💼 [LinkedIn](https://linkedin.com/in/gagansaieashwar)
+* 📨 [gagansaieashwar@gmail.com](mailto:gagansaieashwar@gmail.com)
+* 💬 Feel free to explore my repositories or reach out!
 
 ---
 
-📄 [Download My Resume (PDF)](./public/Gagan_Sai_Eashwar_CV.pdf)
+## 📄 Resume
+👉 [Download My Resume (PDF)](./Gagan_Sai_Eashwar_Resume_2026.pdf)
+
+---
