@@ -81,6 +81,7 @@ IBM AI Engineering Professional Certificate
 ---
 
 ## 📄 Resume
-👉 [Download My Resume (PDF)](./Gagan_Sai_Eashwar_Resume_2026.pdf)
+
+👉  [Download My Latest Resume](Gagan_Sai_Eashwar_Resume.pdf)
 
 ---
