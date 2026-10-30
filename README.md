@@ -1,87 +1,108 @@
----
+# 👋 Hi, I'm Gagan Sai Eashwar!
 
-# 👋 Hi, I'm an AI & Cybersecurity Enthusiast!
+**CEH-Certified Cybersecurity Professional | Ethical Hacking | VAPT | Python | AI & Software Development**
 
-Welcome to my GitHub! I'm a **Computer Engineering student** with a strong interest in **Cybersecurity and Artificial Intelligence**.
-I enjoy securing systems, identifying vulnerabilities, and building automation tools using Python and modern frameworks.
-I believe in continuous learning through **hands-on projects, internships, and security labs**.
+Welcome to my GitHub! I'm a Computer Science and Engineering graduate passionate about **Cybersecurity, Ethical Hacking, Vulnerability Assessment, and Artificial Intelligence**.
 
----
-
-
-## 🧑‍💻 Internship Experience
-
-### 🔐 Cyber Security Intern | **AUN Tech Consulting**
-
-* Assisted in securing **web applications and internal systems** by identifying vulnerabilities using manual testing and automated security tools.
-* Performed **vulnerability assessments and basic penetration testing**, identifying threats such as **SQL Injection, XSS, and authentication misconfigurations**.
-* Developed and tested a **lightweight SQL Injection vulnerability scanner in Python** to automate detection of insecure input fields and database exposure.
-* Monitored **network traffic and system logs** to detect suspicious activities, improving incident response time and system reliability.
+I enjoy identifying security vulnerabilities, analyzing network traffic, investigating suspicious activities, and developing Python-based security automation tools. I continuously strengthen my technical skills through hands-on projects, practical security labs, and professional learning.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🔐 Internship Experience
 
-### 🔐 Cybersecurity
+### Cybersecurity Intern | **AUN Tech Consulting**
+*December 2025 – January 2026*
 
-* Kali Linux, Wireshark, Metasploit, Nmap, Burp Suite
-* Vulnerability Assessment, Penetration Testing, Secure Coding
-* TryHackMe | Hack The Box 
-  
+- Conducted vulnerability assessments of web applications and internal systems using manual testing methodologies and automated security tools.
+- Developed a Python-based SQL Injection (SQLi) vulnerability scanner to identify insecure input fields and potential database exposure.
+- Monitored network traffic and analyzed security logs to identify suspicious activities.
+- Supported security assessment and incident investigation activities through technical analysis and documentation.
+
+---
+
+## 🧰 Technical Skills
+
+### 🔐 Cybersecurity & Ethical Hacking
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Web Application Security
+- Network Security & Reconnaissance
+- Incident Response & Security Monitoring
+- Log Analysis & Network Traffic Analysis
+- Privilege Escalation
+
+### 🛠️ Security Tools
+- Nmap, Wireshark, Burp Suite
+- Metasploit Framework, SQLMap
+- Hydra, John the Ripper
+- Kali Linux, Linux
+
+### 💻 Programming & Development
+- Python, Bash
+- Flask, APIs, SQLite
+- Git, GitHub
 
 ### 🤖 AI & Machine Learning
+- Scikit-learn, TensorFlow, OpenCV
+- Natural Language Processing (NLP)
+- Machine Learning & Neural Networks
+- Hugging Face Transformers
 
-* Python, Scikit-learn, TensorFlow, OpenCV
-* Machine Learning, NLP, Neural Networks
-
-### 💻 Other Skills
-
-* Git, Bash, Linux, APIs, Flask, SQLite
+### 🌐 Additional Technologies
+- HTML, CSS, JavaScript
+- PyQt5
 
 ---
 
-## 📌 Pinned Projects
+## 🚀 Featured Projects
 
 ### 🔎 [WebVulnScanner](https://github.com/GaganSaiEashwar/WebVulnScanner)
+Python-based command-line security assessment tool that checks websites for common security issues, including SSL/TLS configuration problems, HTTP security header misconfigurations, and directory listing exposure.
 
-➤ A Python-based CLI tool that scans websites for common vulnerabilities such as **SSL issues, header misconfigurations, and directory listing exposure**.
+### 🛡️ [HSBox Penetration Testing & Privilege Escalation](https://github.com/GaganSaiEashwar/HSBox-Penetration-Test)
+Hands-on penetration testing assessment in an authorized CTF lab environment covering network reconnaissance, anonymous FTP enumeration, Drupal vulnerability exploitation, initial access, Linux enumeration, SUID analysis, and privilege escalation.
+
+### 📊 Network Traffic & Security Log Analysis
+Practical security analysis project involving Wireshark packet inspection, DNS and HTTP traffic analysis, suspicious authentication activity, and security event investigation.
 
 ### 💬 [AI Chatbot](https://github.com/GaganSaiEashwar/AI-Chatbot)
+Command-line conversational chatbot developed using Hugging Face Transformers and DialoGPT for multi-turn conversations using NLP techniques.
 
-➤ A command-line chatbot built using **Hugging Face Transformers (DialoGPT)** for human-like multi-turn conversations using NLP techniques.
-
-### 🌦 [Real-Time Weather Checker](https://github.com/GaganSaiEashwar/Real-Time-Weather-Checker)
-
-➤ A **Python + PyQt5 desktop application** that fetches and displays real-time weather data using the **OpenWeatherMap API**, featuring input validation, error handling, and a clean GUI.
-
-### 🌐 [DevConnect Portfolio Website](https://github.com/GaganSaiEashwar/devconnect)
-
-➤ A **React & Tailwind CSS portfolio** showcasing projects, skills, resume, and contact form. Fully responsive and deployment-ready.
+### 🌦️ [Real-Time Weather Checker](https://github.com/GaganSaiEashwar/Real-Time-Weather-Checker)
+Python and PyQt5 desktop application that retrieves real-time weather information through the OpenWeatherMap API, featuring input validation and error handling.
 
 ---
 
-## 🚀 Certifications 
+## 🏆 Certifications
 
-Certified Ethical Hacker (CEH) – EC-Council
-
-Digital Forensics Essentials (DFE) – EC-Council
-
-Google Cybersecurity Professional Certificate
-
-IBM AI Engineering Professional Certificate
+- **Certified Ethical Hacker (CEH)** — EC-Council | October 2026
+- **Digital Forensics Essentials (DFE)** — EC-Council | November 2024
+- **Google Cybersecurity Professional Certificate** — Coursera | December 2025
+- **Microsoft Cybersecurity Analyst Professional Certificate** — Coursera | December 2025
+- **IBM Cybersecurity Analyst Professional Certificate** — Coursera | November 2025
 
 ---
 
-## 📫 Let’s Connect!
+## 🎓 Education
 
-* 💼 [LinkedIn](https://linkedin.com/in/gagansaieashwar)
-* 📨 [gagansaieashwar@gmail.com](mailto:gagansaieashwar@gmail.com)
-* 💬 Feel free to explore my repositories or reach out!
+**B.Tech – Computer Science and Engineering**  
+Lovely Professional University, Phagwara, Punjab  
+September 2022 – June 2026  
+CGPA: 7.78/10
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/gagansaieashwar)
+- 💻 [GitHub](https://github.com/GaganSaiEashwar)
+- 📧 [gagansaieashwar@gmail.com](mailto:gagansaieashwar@gmail.com)
 
 ---
 
 ## 📄 Resume
 
-👉  [Download My Latest Resume](Gagan_Sai_Eashwar_Resume.pdf)
+👉 **[Download My Latest Resume](Gagan_Sai_Eashwar_Resume.pdf)**
 
 ---
+
+*Always learning, building, breaking (in authorized labs), and securing.* 🔐
