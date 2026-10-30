@@ -26,14 +26,8 @@ I believe in continuous learning through **hands-on projects, internships, and s
 
 * Kali Linux, Wireshark, Metasploit, Nmap, Burp Suite
 * Vulnerability Assessment, Penetration Testing, Secure Coding
-* TryHackMe | Hack The Box | **OSCP (in progress)**
-
-### 🎨 Frontend Development
-
-* HTML5, CSS3, JavaScript (ES6+)
-* React.js (Vite), JSX
-* Tailwind CSS, Responsive & Mobile-First Design
-* GitHub Pages, Vercel, Netlify
+* TryHackMe | Hack The Box 
+  
 
 ### 🤖 AI & Machine Learning
 
@@ -66,13 +60,15 @@ I believe in continuous learning through **hands-on projects, internships, and s
 
 ---
 
-## 🚀 Certifications & Learning
+## 🚀 Certifications 
 
-* 🎓 Google Cybersecurity Professional Certificate
-* 🤖 IBM AI Engineering
-* 📚 Coursera – Andrew Ng’s *Machine Learning* & *AI for Everyone*
-* 🛡️ OSCP (In Progress)
-* 🧩 TryHackMe & Hack The Box – Active Learner
+Certified Ethical Hacker (CEH) – EC-Council
+
+Digital Forensics Essentials (DFE) – EC-Council
+
+Google Cybersecurity Professional Certificate
+
+IBM AI Engineering Professional Certificate
 
 ---
 
